@@ -61,7 +61,7 @@ class MyCard extends StatelessWidget {
           Align(
             alignment: Alignment.topRight,
             child: Container(
-              width: 230,
+              width: 280,
               padding: const EdgeInsets.symmetric(vertical: 5, horizontal: 10),
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(30),
