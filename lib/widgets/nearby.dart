@@ -29,7 +29,6 @@ class Doctor extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.only(bottom: 20),
       child: SizedBox(
-        height: 90,
         child: Row(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
